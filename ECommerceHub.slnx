@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/mock/">
+    <Project Path="mock/ECommerceHub.MockPlatform/ECommerceHub.MockPlatform.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/ECommerceHub.API/ECommerceHub.API.csproj" />
+    <Project Path="src/ECommerceHub.Application/ECommerceHub.Application.csproj" />
+    <Project Path="src/ECommerceHub.Domain/ECommerceHub.Domain.csproj" />
+    <Project Path="src/ECommerceHub.Infrastructure/ECommerceHub.Infrastructure.csproj" />
+  </Folder>
+</Solution>
