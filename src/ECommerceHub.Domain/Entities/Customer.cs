@@ -1,5 +1,4 @@
 namespace ECommerceHub.Domain.Entities;
-
 public class Customer
 {
     public int Id { get; set; }
@@ -9,7 +8,5 @@ public class Customer
     public string Address { get; set; } = string.Empty;
     public string City { get; set; } = string.Empty;
     public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
-
-    // Iliskiler
     public ICollection<Order> Orders { get; set; } = new List<Order>();
 }

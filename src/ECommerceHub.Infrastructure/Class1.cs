@@ -1,6 +1,4 @@
-﻿namespace ECommerceHub.Infrastructure;
-
+namespace ECommerceHub.Infrastructure;
 public class Class1
 {
-
 }
