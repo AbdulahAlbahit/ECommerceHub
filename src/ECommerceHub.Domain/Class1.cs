@@ -1,6 +1,4 @@
-﻿namespace ECommerceHub.Domain;
-
+namespace ECommerceHub.Domain;
 public class Class1
 {
-
 }
